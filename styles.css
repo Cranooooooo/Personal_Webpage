@@ -44,6 +44,7 @@ section h2 {
   color: #000;
   font-size: 24px;
   margin-bottom: 20px;
+  background: rgba(255, 255, 255, 0.75);
 }
 
 /* Home Section */
@@ -54,13 +55,13 @@ section#home h1 {
 
 /* Portfolio Section */
 section#portfolio {
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(255, 255, 255, 0.5);
   color: #333;
 }
 
 /* Paper List Section */
 section#papers {
-  background: rgba(244, 244, 244, 0.5);
+  background: rgba(244, 244, 244, 0.75);
   color: #333;
 }
 
@@ -96,18 +97,18 @@ section#papers {
 
 /* Blog Section */
 section#blog {
-  background: rgba(255, 255, 255, 0.75);
+  background: rgba(255, 255, 255, 0.5);
   color: #333;
 }
 
 /* Social Media Section */
 section#social {
-  background: rgba(244, 244, 244, 0.6);
+  background: rgba(244, 244, 244, 0.75);
   color: #333;
 }
 /* Footer */
 footer {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.5);
   padding: 10px;
   text-align: center;
   color: #fff;

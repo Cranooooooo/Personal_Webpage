@@ -15,10 +15,12 @@ body {
 
 /* styles.css */
 .timeline-event {
+  background: rgba(255, 255, 255, 0.7);
   margin-bottom: 20px;
 }
 
 .timeline-event h3 {
+  color: #fff;
   font-size: 18px;
   font-weight: bold;
 }

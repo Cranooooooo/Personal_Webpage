@@ -85,6 +85,13 @@ section#portfolio {
   color: #333;
 }
 
+/* timeline-event */
+section#portfolio {
+  background: rgba(255, 255, 255, 0.5);
+  color: #333;
+}
+
+
 /* Paper List Section */
 section#papers {
   background: rgba(244, 244, 244, 0.75);

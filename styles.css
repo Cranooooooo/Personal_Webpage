@@ -13,6 +13,27 @@ body {
   background-size: cover;
 }
 
+/* styles.css */
+.timeline-event {
+  margin-bottom: 20px;
+}
+
+.timeline-event h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.timeline-event p {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+/* Additional CSS styles for the timeline section */
+#timeline {
+  overflow-x: scroll; /* Enable horizontal scrolling for the timeline */
+  white-space: nowrap; /* Prevent line breaks within the timeline events */
+}
+
 /* Navigation */
 nav {
   background: rgba(0, 0, 0, 0.5);

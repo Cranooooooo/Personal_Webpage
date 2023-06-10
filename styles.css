@@ -34,6 +34,7 @@ body {
 
 /* Additional CSS styles for the timeline section */
 #timeline {
+  color: #fff;
   overflow-x: scroll; /* Enable horizontal scrolling for the timeline */
   white-space: nowrap; /* Prevent line breaks within the timeline events */
 }
